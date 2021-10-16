@@ -10,6 +10,9 @@
 * [Perintah tambahan](https://github.com/hartomycom/panduan-github/tree/master#perintah-tambahan)
 * [gitignore](https://github.com/hartomycom/panduan-github/tree/master#gitignore)
 
+## Remote Repository
+`git remote add origin <url repository>`
+
 ## Membuat Repository Baru
 ```
 echo "# panduan-github" >> README.md
@@ -17,12 +20,12 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/hartomycom/panduan-github.git
+git remote add origin <url repository>
 git push -u origin main
 ```
 ## Push Repository Yang sudah ada
 ```
-git remote add origin https://github.com/hartomycom/panduan-github.git
+git remote add origin <url repository>
 git branch -M main
 git push -u origin main
 ```
