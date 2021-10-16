@@ -1,14 +1,14 @@
 # Panduan Penggunaan Git
 
-* [Membuat Repository Baru](https://github.com/hartomycom/API-ERP-CMS/tree/master#membuat-repository-baru)
-* [Push Repository Yang sudah ada](https://github.com/hartomycom/API-ERP-CMS/tree/master#push-repository-yang-sudah-ada)
-* [Mengunduh repository ke dalam komputer](https://github.com/hartomycom/API-ERP-CMS/tree/master#mengunduh-repository)
-* [Memperbarui repository yang telah diunduh](https://github.com/hartomycom/API-ERP-CMS/tree/master#memperbarui-repository)
-* [Mengunggah perubahan ke dalam repository](https://github.com/hartomycom/API-ERP-CMS/tree/master#mengunggah-perubahan)
-* [Menghapus file](https://github.com/hartomycom/API-ERP-CMS/tree/master#menghapus-file)
-* [Branching](https://github.com/hartomycom/API-ERP-CMS/tree/master#branching)
-* [Perintah tambahan](https://github.com/hartomycom/API-ERP-CMS/tree/master#perintah-tambahan)
-* [gitignore](https://github.com/hartomycom/API-ERP-CMS/tree/master#gitignore)
+* [Membuat Repository Baru](https://github.com/hartomycom/panduan-github/tree/master#membuat-repository-baru)
+* [Push Repository Yang sudah ada](https://github.com/hartomycom/panduan-github/tree/master#push-repository-yang-sudah-ada)
+* [Mengunduh repository ke dalam komputer](https://github.com/hartomycom/panduan-github/tree/master#mengunduh-repository)
+* [Memperbarui repository yang telah diunduh](https://github.com/hartomycom/panduan-github/tree/master#memperbarui-repository)
+* [Mengunggah perubahan ke dalam repository](https://github.com/hartomycom/panduan-github/tree/master#mengunggah-perubahan)
+* [Menghapus file](https://github.com/hartomycom/panduan-github/tree/master#menghapus-file)
+* [Branching](https://github.com/hartomycom/panduan-github/tree/master#branching)
+* [Perintah tambahan](https://github.com/hartomycom/panduan-github/tree/master#perintah-tambahan)
+* [gitignore](https://github.com/hartomycom/panduan-github/tree/master#gitignore)
 
 ## Membuat Repository Baru
 ```
